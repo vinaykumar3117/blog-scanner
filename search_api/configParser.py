@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 29 09:17:08 2019
 
-"""
 import configparser
 def configFileRead(fileName,section,option):
     configFile = configparser.ConfigParser()
