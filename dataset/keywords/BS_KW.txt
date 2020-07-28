@@ -1,0 +1,8 @@
+Resistor shortage
+Capacitor shortage
+Diode shortage
+MOSFET shortage
+electronic component shortage
+passives shortage
+passive component shortage
+component shortage
