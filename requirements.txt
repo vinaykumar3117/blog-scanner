@@ -1,0 +1,9 @@
+bs4==4.7.1
+csv==1.0
+nltk==3.4.4
+pandas==0.24.2
+requests==2.22.0
+google==2.0.2
+google-api-python-client==1.7.9
+google-auth-httplib2==0.0.3
+urllib3==1.25.3
