@@ -2,7 +2,6 @@
 Module      : cache_clear.py
 Description : Clear training data cache
 Input       : dataset path
-Author      : vinay.k.g@nokia.com
 """
 
 def main(dataset_path='..\\dataset'):
