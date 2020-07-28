@@ -1,7 +1,6 @@
 """
 Module      : launcher.py
 Description : Launcher for Blog Scanner
-Author      : vinay.k.g@nokia.com
 """
 
 import sys
