@@ -1,7 +1,6 @@
 """
 Module      : read_config.py
 Description : Utility module to read configuration
-Author      : vinay.k.g@nokia.com
 """
 
 class Configuration:
